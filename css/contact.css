@@ -1,0 +1,32 @@
+.contact th {
+    height: 7rem;
+    width: 150px;
+    text-align: right;
+}
+
+.contact td {
+    padding-left: 10px;
+    width: 480px;
+}
+
+.hoge {
+    width: 480px;
+}
+
+.content p {
+    text-align: center;
+}
+
+.button { 
+    font-size: 3rem;
+    color: white;
+    background-color:#008B8B;
+    padding: 10px;
+    outline: none;
+    border: none;
+}
+
+.button:hover{
+     opacity: 0.5; 
+     background-color:#008B8B;
+}
